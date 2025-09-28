@@ -308,5 +308,3 @@ Think of Git like this:
 - **Merging**: Combining storylines back together
 
 Remember: Git is just keeping track of snapshots and helping you navigate between them. Every time you commit, you're saving a snapshot. Every time you branch, you're creating a new path to explore. HEAD just shows you where you are in this maze of possibilities.
-
-The key to mastering Git is understanding that you're always moving through a graph of snapshots, and Git provides tools to navigate this graph safely and efficiently.
